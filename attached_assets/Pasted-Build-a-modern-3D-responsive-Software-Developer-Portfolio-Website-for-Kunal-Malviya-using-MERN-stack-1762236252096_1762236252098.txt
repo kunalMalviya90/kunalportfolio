@@ -1,0 +1,83 @@
+Build a modern 3D responsive Software Developer Portfolio Website for Kunal Malviya using MERN stack or pure JavaScript (HTML, CSS, JS, React.js, Node.js, Express.js, MongoDB) — whichever gives the best performance on Replit.
+
+✅ Design goals:
+
+Full dark mode UI with smooth scroll, soft animations, and 3D elements (like 3D profile image hover, 3D project cards, and animated background using Three.js or Framer Motion).
+
+Use a quadratic color palette (blend of electric blue #00BFFF, violet #7B68EE, neon purple #8A2BE2, and jet black #0A0A0A) with glassmorphism and gradient highlights.
+
+The site must be fully responsive across desktop, tablet, and mobile.
+
+Include profile photo section, subtle background motion effects, and smooth page transitions.
+
+✅ Website structure:
+
+Hero Section:
+
+Animated introduction like “Hi, I’m Kunal Malviya 👋 — Software Engineer | MERN & Java Developer.”
+
+3D floating name effect and animated buttons linking to GitHub, LinkedIn, and Email.
+
+About Section:
+
+Short summary:
+“I’m a passionate Software Engineer pursuing a 5-year Integrated MCA from IIPS, Indore. Skilled in MERN Stack, Java (Core & Advanced), Spring Boot, and Data Structures. I love building scalable web applications and solving real-world problems with clean, efficient code.”
+
+Skills Section:
+
+Display tech icons (MERN, Java, Spring Boot, MySQL, MongoDB, AWS, Git, Docker, Swagger, DSA).
+
+Add hover animation for each skill.
+
+Projects Section (animated cards):
+
+Employee Complaint Portal (React + Node + MongoDB) → Include short description and GitHub link.
+
+OnlineRoomWala (PHP + MySQL + JS) → Include features like authentication, CRUD, rental management.
+
+Smart Inventory Management System (Java + Spring Boot + MySQL) → Mention microservices and role-based login.
+
+Experience Section:
+
+IT Intern – Indore Municipal Corporation (Jul 2024 – Sep 2024)
+Add animated timeline or vertical scroll.
+
+Education Section:
+
+Integrated MCA – IIPS DAVV Indore (2021–Present)
+
+Narmada Convent HS School (10th & 12th, PCM)
+
+Contact Section:
+
+Stylish contact form with animations and icons.
+
+Email: malviyakunal90@gmail.com
+
+Location: Indore, Madhya Pradesh
+
+Footer:
+
+Links to GitHub, LinkedIn, Portfolio.
+
+Animated copyright.
+
+✅ Extra features:
+
+Add cursor-follow glow and scroll-triggered animations.
+
+Include 3D rotating developer logo in header.
+
+Implement dark/light toggle switch (default dark).
+
+Use Framer Motion or GSAP for transitions.
+
+✅ Output requirements:
+
+Generate clean, modular code with comments.
+
+Include all images and animations inline or link from placeholders.
+
+Deploy-ready on Replit (no build issues).
+
+🔥 The final site should look like a premium, interactive portfolio that impresses recruiters and reflects Kunal’s MERN & Java skills with a futuristic dark aesthetic.
