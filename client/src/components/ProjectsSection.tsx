@@ -10,23 +10,23 @@ const projects = [
     description:
       "A comprehensive complaint management system built with MERN stack, featuring real-time updates, role-based authentication, and automated email notifications. Employees can submit, track, and resolve complaints efficiently.",
     tech: ["React", "Node.js", "MongoDB", "Express"],
-    github: "https://github.com/kunalmalviya/employee-complaint-portal",
+    github: "https://github.com/kunalMalviya90/employee-complaint-portal-frontend",
     gradient: "from-primary to-secondary",
   },
   {
     title: "OnlineRoomWala",
     description:
       "Full-featured rental management platform with authentication, CRUD operations for property listings, advanced search filters, and booking management. Includes admin dashboard for property verification.",
-    tech: ["PHP", "MySQL", "JavaScript", "Bootstrap"],
-    github: "https://github.com/kunalmalviya/onlineroomwala",
+    tech: ["PHP", "MySQL", "JavaScript", "HTML" , "CSS"],
+    github: "https://github.com/kunalMalviya90/OnlineRoomWala",
     gradient: "from-secondary to-accent",
   },
   {
     title: "Smart Inventory Management",
     description:
       "Microservices-based inventory system built with Spring Boot featuring role-based login, real-time stock tracking, automated reordering, supplier management, and comprehensive reporting with data analytics.",
-    tech: ["Java", "Spring Boot", "MySQL", "Docker"],
-    github: "https://github.com/kunalmalviya/inventory-management",
+    tech: ["Java", "Spring Boot", "MySQL","frontend"],
+    github: "https://github.com/malviyakunal90/",
     gradient: "from-accent to-primary",
   },
 ];

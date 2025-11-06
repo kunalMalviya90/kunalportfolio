@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 
 export function HeroSection() {
   const [displayText, setDisplayText] = useState("");
-  const roles = ["Software Engineer", "MERN Developer", "Java Specialist"];
+  const roles = ["Software Engineer", "MERN Developer", "Java DSA"];
   const [roleIndex, setRoleIndex] = useState(0);
 
   useEffect(() => {
@@ -53,7 +53,7 @@ export function HeroSection() {
             className="mb-6"
           >
             <h2 className="text-xl md:text-2xl text-muted-foreground mb-4">
-              Hi, I'm Kunal Malviya 👋
+              Hi, I'm  👋
             </h2>
             <motion.h1
               className="text-4xl md:text-6xl lg:text-7xl font-bold gradient-text mb-6"
@@ -105,7 +105,7 @@ export function HeroSection() {
               data-testid="button-github"
             >
               <a
-                href="https://github.com/kunalmalviya"
+                href="https://github.com/kunalMalviya90"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -121,7 +121,7 @@ export function HeroSection() {
               data-testid="button-linkedin"
             >
               <a
-                href="https://linkedin.com/in/kunalmalviya"
+                href="https://linkedin.com/in/kunalmalviya07"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -139,6 +139,18 @@ export function HeroSection() {
               <a href="mailto:malviyakunal90@gmail.com">
                 <Mail className="w-5 h-5 mr-2" />
                 Email
+              </a>
+            </Button>
+            <Button
+              size="lg"
+              variant="outline"
+              className="hover-elevate active-elevate-2"
+              asChild
+              data-testid="button-email"
+            >
+              <a href="https://drive.google.com/file/d/10hXldI1Hevp18efTv2FGG3oy7-R0rIIN/view?usp=drivesdk">
+                <Mail className="w-5 h-5 mr-2" />
+                Resume
               </a>
             </Button>
           </motion.div>

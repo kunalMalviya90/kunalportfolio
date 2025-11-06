@@ -10,7 +10,6 @@ import {
   SiMysql,
   SiGit,
   SiDocker,
-  SiSwagger,
 } from "react-icons/si";
 import { Code2, Coffee, Database } from "lucide-react";
 
@@ -21,12 +20,13 @@ const skills = [
   { name: "Express", icon: SiExpress, color: "#FFFFFF" },
   { name: "JavaScript", icon: SiJavascript, color: "#F7DF1E" },
   { name: "Java", icon: Coffee, color: "#007396" },
+  { name: "Python", icon: Code2, color: "#007396" },
+  { name: "C & C++", icon: Coffee, color: "#007396" },
   { name: "Spring Boot", icon: SiSpringboot, color: "#6DB33F" },
   { name: "MySQL", icon: SiMysql, color: "#4479A1" },
   { name: "AWS", icon: Database, color: "#FF9900" },
   { name: "Git", icon: SiGit, color: "#F05032" },
   { name: "Docker", icon: SiDocker, color: "#2496ED" },
-  { name: "Swagger", icon: SiSwagger, color: "#85EA2D" },
   { name: "DSA", icon: Code2, color: "#00BFFF" },
 ];
 

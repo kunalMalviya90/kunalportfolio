@@ -24,7 +24,7 @@ export function Footer() {
               data-testid="footer-button-github"
             >
               <a
-                href="https://github.com/kunalmalviya"
+                href="https://github.com/malviyakunal90"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -39,7 +39,7 @@ export function Footer() {
               data-testid="footer-button-linkedin"
             >
               <a
-                href="https://linkedin.com/in/kunalmalviya"
+                href="https://linkedin.com/in/kunalmalviya07"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -66,7 +66,7 @@ export function Footer() {
             viewport={{ once: true }}
             transition={{ delay: 0.3 }}
           >
-            © {new Date().getFullYear()} Kunal Malviya. Built with React & TypeScript.
+            © {new Date().getFullYear()} Kunal Malviya. Built with React & JS.
           </motion.p>
         </div>
       </div>

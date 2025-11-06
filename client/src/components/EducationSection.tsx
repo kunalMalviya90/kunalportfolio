@@ -5,7 +5,7 @@ import { GraduationCap, Calendar } from "lucide-react";
 const education = [
   {
     degree: "Integrated MCA",
-    institution: "IIPS, DAVV Indore",
+    institution: "International Institute Of Professional Studies ,IIPS DAVV Indore",
     period: "2021 - Present",
     description: "5-year Integrated Master of Computer Applications program with focus on Software Engineering, Data Structures, and Advanced Java.",
   },

@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { Card } from "@/components/ui/card";
-import profileImage from "@assets/generated_images/Professional_developer_headshot_portrait_09ce9db6.png";
+import profileImage from '../assets/generated_images/ProfilePhotoCV.jpg';
+
 
 export function AboutSection() {
   return (
@@ -61,7 +62,7 @@ export function AboutSection() {
               <p className="text-lg text-foreground leading-relaxed mb-6">
                 Skilled in <span className="text-primary font-semibold">MERN Stack</span>,{" "}
                 <span className="text-secondary font-semibold">Java (Core & Advanced)</span>,{" "}
-                <span className="text-accent font-semibold">Spring Boot</span>, and Data Structures.
+                <span className="text-accent font-semibold"></span> and Data Structures.
               </p>
               <p className="text-lg text-foreground leading-relaxed">
                 I love building scalable web applications and solving real-world problems with clean, efficient code.

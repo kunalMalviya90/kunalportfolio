@@ -2,7 +2,8 @@ import { Moon, Sun } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useTheme } from "@/components/ThemeProvider";
 import { motion } from "framer-motion";
-import logoImage from "@assets/generated_images/3D_geometric_developer_logo_461766a1.png";
+import logoImage from '../assets/generated_images/developer.png';
+
 
 export function Header() {
   const { theme, setTheme } = useTheme();
@@ -31,11 +32,10 @@ export function Header() {
               src={logoImage}
               alt="Developer Logo"
               className="w-10 h-10 md:w-12 md:h-12"
-              animate={{ rotate: 360 }}
               transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
             />
             <span className="text-lg md:text-xl font-bold gradient-text">
-              KM
+              Kunal Malviya
             </span>
           </motion.div>
 
