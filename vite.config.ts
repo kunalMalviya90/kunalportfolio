@@ -19,7 +19,10 @@ export default defineConfig({
         ]
       : []),
   ],
-  base:"/kunalportfolio",
+  // base: "/kunalportfolio/",
+  // plugins: [react()],
+  // base:"/kunalportfolio",
+  
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),
