@@ -17,7 +17,7 @@ const projects = [
     title: "OnlineRoomWala",
     description:
       "Full-featured rental management platform with authentication, CRUD operations for property listings, advanced search filters, and booking management. Includes admin dashboard for property verification.",
-    tech: ["PHP", "MySQL", "JavaScript", "HTML" , "CSS"],
+    tech: ["Node.js", "MongoDB", "Express", "JavaScript", "HTML" , "CSS"],
     github: "https://github.com/kunalMalviya90/OnlineRoomWala",
     gradient: "from-secondary to-accent",
   },

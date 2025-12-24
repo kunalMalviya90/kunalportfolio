@@ -148,7 +148,7 @@ export function HeroSection() {
               asChild
               data-testid="button-email"
             >
-              <a href="https://drive.google.com/file/d/10hXldI1Hevp18efTv2FGG3oy7-R0rIIN/view?usp=drivesdk">
+              <a href="https://drive.google.com/file/d/16Qr7YO0PVi_5d3mZecBTAGQvvg-X7VUt/view?usp=sharing">
                 <Mail className="w-5 h-5 mr-2" />
                 Resume
               </a>
